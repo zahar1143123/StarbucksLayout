@@ -1,7 +1,6 @@
 import React from 'react';
 import "../styles/style.css";
 
-// ИМПОРТ КАРТИНОК (пути относительно файла App.tsx)
 import greenBigCup from "../assets/cups/green-big.png";
 import heartIcon from "../assets/icons/3d/heart.png";
 import rocketIcon from "../assets/icons/3d/rocket.png";
